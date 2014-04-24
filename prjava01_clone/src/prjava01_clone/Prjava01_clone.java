@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 
-package prjava01;
+package prjava01_clone;
 
 import java.io.BufferedWriter;
 import java.io.File;
@@ -15,7 +15,7 @@ import java.io.IOException;
  *
  * @author Jordi
  */
-public class Prjava01 {
+public class Prjava01_clone {
 
     /**
      * @param args the command line arguments
@@ -52,3 +52,4 @@ public class Prjava01 {
     }
     }
     
+
