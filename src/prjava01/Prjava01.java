@@ -26,7 +26,7 @@ public static void main(String [] args)throws IOException{
 		bw.write("Novap&agrave;ginaweb");bw.newLine();
 		bw.write("</body>");bw.newLine();
 		bw.write("</html>");bw.newLine();
-		bw.close();
+		bw.close(); 
 	}
 }
 }
