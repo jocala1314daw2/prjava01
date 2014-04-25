@@ -39,6 +39,7 @@ public class Prjava01_clone {
                 bw.newLine();
 		bw.write("<body>");
                 bw.write("<h1>DAW2m08uf4pr2</h1>");bw.newLine();
+                bw.write("<h1>DAW2m08uf4pr2</h1>");bw.newLine();
                 bw.newLine();
 		bw.write("Novap&agrave;ginaweb");
                 bw.newLine();
